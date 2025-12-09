@@ -2,7 +2,7 @@
 layout: posts
 title: "客服高壓期怎麼扛：三個照顧團隊的做法"
 date: 2024-02-23 09:00:00 +0800
-categories: [客服, 管理]
+categories: [客戶服務]
 tags: [壓力管理, 客戶服務, 團隊支持]
 description: "旺季來臨時，先照顧好前線同仁，指標自然跟上。"
 ---

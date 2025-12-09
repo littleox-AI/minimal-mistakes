@@ -2,7 +2,7 @@
 layout: posts
 title: "新手主管自我檢核：30 天內要做到的五件事"
 date: 2024-03-08 09:00:00 +0800
-categories: [管理, 職涯]
+categories: [管理]
 tags: [新手主管, 檢核表, 團隊啟動]
 description: "上任第一個月的實戰清單，讓團隊知道你來真的。"
 ---

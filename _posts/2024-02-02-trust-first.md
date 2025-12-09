@@ -2,7 +2,7 @@
 layout: posts
 title: "向下管理先建立信任：三個不做與三個必做"
 date: 2024-02-02 09:00:00 +0800
-categories: [管理, 團隊文化]
+categories: [管理]
 tags: [信任, 團隊管理, 文化]
 description: "把八卦與臆測關在門外，用透明與行動累積信任。"
 ---
