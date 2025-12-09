@@ -2,7 +2,7 @@
 layout: posts
 title: "讓 KPI 落地：客服團隊的三層行動設計"
 date: 2024-01-12 09:00:00 +0800
-categories: [管理, 客服]
+categories: [客戶服務]
 tags: [KPI, 目標管理, 行動計畫]
 description: "把客服指標拆成日常動作，讓團隊知道每天要做到什麼才算有進度。"
 ---

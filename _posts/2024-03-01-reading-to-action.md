@@ -2,7 +2,7 @@
 layout: posts
 title: "把書變成動作：我的三段式閱讀筆記法"
 date: 2024-03-01 09:00:00 +0800
-categories: [閱讀, 自我成長]
+categories: [讀書心得]
 tags: [讀書筆記, 行動導向, 學習]
 description: "不做文青式心得，把重點轉成白話與可執行的清單。"
 ---

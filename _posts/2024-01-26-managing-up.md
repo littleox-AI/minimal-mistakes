@@ -2,7 +2,7 @@
 layout: posts
 title: "向上管理不求人：讓上司買單的三步驟"
 date: 2024-01-26 09:00:00 +0800
-categories: [管理, 職涯]
+categories: [管理]
 tags: [向上管理, 溝通, 決策]
 description: "把需求變成選項、風險與成本一次說清，讓上司快速決定。"
 ---
